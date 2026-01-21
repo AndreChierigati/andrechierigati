@@ -18,5 +18,5 @@ Este GitHub é um espaço para portfólio audiovisual, estudos de cinema e proce
 - Photoshop
 
 ## 🌐 Contato
-- Instagram: https://instagram.com/seuuser
-- YouTube: https://youtube.com/seucanal
+- Instagram: https://instagram.com/gatiandre
+- YouTube: https://youtube.com/gatiandre
