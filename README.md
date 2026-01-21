@@ -1,16 +1,22 @@
-## Hi there 👋
+# André Chierigati 🎬
 
-<!--
-**AndreChierigati/andrechierigati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **editor de vídeo e criador audiovisual**, com foco em **cinema, linguagem audiovisual e storytelling visual**.
 
-Here are some ideas to get you started:
+## 🎥 Áreas de atuação
+- Edição de vídeo
+- Cinema e narrativa visual
+- Pós-produção
+- Conteúdo digital
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre este GitHub
+Este GitHub é um espaço para portfólio audiovisual, estudos de cinema e processos criativos.
+
+## 🛠️ Ferramentas
+- Adobe Premiere Pro
+- After Effects
+- DaVinci Resolve
+- Photoshop
+
+## 🌐 Contato
+- Instagram: https://instagram.com/seuuser
+- YouTube: https://youtube.com/seucanal
